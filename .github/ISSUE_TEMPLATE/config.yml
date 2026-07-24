@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: YankiDev website
+    url: https://yankidev.com
+    about: Project home and contact for Collection (Copyright © YankiDev).
+  - name: Security report
+    url: https://yankidev.com
+    about: Report security-sensitive issues privately (see SECURITY.md). Do not open a public issue.

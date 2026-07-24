@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this collection, please cite it as below."
+title: "Collection — Industry & Enterprise Learning Materials"
+type: software
+authors:
+  - name: "YankiDev"
+    website: "https://yankidev.com"
+abstract: >-
+  An open-source collection of documents and materials that help users
+  understand frameworks, tools, and practices according to industry and
+  enterprise standards.
+license: MIT
+copyright: "Copyright (c) 2026 YankiDev (yankidev.com)"
+url: "https://yankidev.com"
+repository-code: "https://github.com/nitinaryal/collection"
+keywords:
+  - documentation
+  - frameworks
+  - tools
+  - enterprise
+  - industry-standards
+  - learning
+  - architecture
+version: 0.1.0
+date-released: "2026-07-24"
